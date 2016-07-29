@@ -38,3 +38,4 @@ NSString *str = nil;
 NSMutableDictionary *mDict = [NSMutableDictionary dictionary];
 [mDict setObject:str forKey:@"123423"];
 ```
+写的还不完善  如有问题欢迎issue me
