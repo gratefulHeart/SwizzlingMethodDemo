@@ -1,0 +1,11 @@
+/* 
+  infoPlist.strings
+  test
+
+  Created by gfy on 16/6/29.
+  Copyright © 2016年 gfy. All rights reserved.
+*/
+
+
+CFBundleDisplayName = "apple";
+

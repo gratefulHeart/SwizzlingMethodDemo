@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "dianji"; ObjectID = "0vc-yO-CSc"; */
+"0vc-yO-CSc.normalTitle" = "dianji";
+
+/* Class = "UILabel"; text = "登录海边直播"; ObjectID = "GAV-p1-tiu"; */
+"GAV-p1-tiu.text" = "登录海边直播";
+
+/* Class = "UIButton"; normalTitle = "点击"; ObjectID = "Qbc-tn-flt"; */
+"Qbc-tn-flt.normalTitle" = "点击";
+
+/* Class = "UILabel"; text = "请作答"; ObjectID = "hp3-3i-lQt"; */
+"hp3-3i-lQt.text" = "请作答";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "lvm-Pd-T0f"; */
+"lvm-Pd-T0f.normalTitle" = "登录";
+
+/* Class = "UIButton"; normalTitle = "来题了"; ObjectID = "zGE-vN-8np"; */
+"zGE-vN-8np.normalTitle" = "来题了";
